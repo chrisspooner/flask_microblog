@@ -1,0 +1,11 @@
+venv
+app.db
+
+#packages
+lib
+__pycache__
+.vagrant
+
+#enviroment variables
+.flaskenv
+.env
